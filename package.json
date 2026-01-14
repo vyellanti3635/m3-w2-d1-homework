@@ -1,0 +1,23 @@
+{
+  "name": "m3-w2-d1-homework",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/vyellanti3635/m3-w2-d1-homework#readme",
+  "bugs": {
+    "url": "https://github.com/vyellanti3635/m3-w2-d1-homework/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vyellanti3635/m3-w2-d1-homework.git"
+  },
+  "license": "ISC",
+  "author": "Venkat vivek yellanti",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "mongodb": "^7.0.0"
+  }
+}
